@@ -4,7 +4,7 @@ void banner_ok(void) {
     printf(TITLE "\n"
         "  " COPYR "\n"
         "  from Command-Line Pack "
-        " 1.03 "
+        " 1.0.3 "
         " (%d-bit "
 
 #if defined(__CYGWIN__)
